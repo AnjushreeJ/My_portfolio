@@ -18,10 +18,9 @@ Built with love using HTML, CSS, and JavaScript to showcase my skills, projects,
 
 ## 🔧 Skills
 
-- 💻 Languages: Python, C/C++, Java, HTML, CSS, JavaScript, SQL  
-- 🌐 MERN Stack: MongoDB, Express.js, React.js, Node.js  
+- 🌐 Languages: Python, C/C++, Java, HTML, CSS, JavaScript, React.js, Node.js
+- 💻 Database: MongoDB, SQL, PostgreSQL 
 - 📊 Tools: MS Excel, Word, PowerPoint, Tally ERP 9  
-- 🖥️ Platforms: Windows, Ubuntu  
 - 🧠 Soft Skills: Creativity, Communication, Problem-Solving
 
 ---
@@ -50,6 +49,7 @@ Built with love using HTML, CSS, and JavaScript to showcase my skills, projects,
 - HackerRank Certifications (SQL, CSS, Problem Solving)  
 - Bootcamps from LetsUpgrade: HTML, CSS, JS, Python  
 - Srishti Hackathon – Certificate of Participation
+- AI Skill Passport - EY & Microsoft
 
 ---
 
@@ -65,8 +65,7 @@ Built with love using HTML, CSS, and JavaScript to showcase my skills, projects,
 ## 🎨 Hobbies
 
 - Singing 🎤  
-- Painting 🎨  
-- Reading 📚  
+- Painting 🎨   
 - Yoga 🧘‍♀️  
 - Traveling 🌏
 
@@ -74,7 +73,7 @@ Built with love using HTML, CSS, and JavaScript to showcase my skills, projects,
 
 ## 🔗 Links
 
-- 📄 [View My Resume (Google Drive)](https://drive.google.com/file/d/1a-gB4KIcXveg8ATTrlazxrebwEZsMzZT/view?usp=drive_link)  
+- 📄 [View My Resume (Google Drive)](https://drive.google.com/file/d/1FxRD1Ic9akgGqvFZC2mJA17ElRR12KSd/view?usp=drive_link)  
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/anjushree-j/)  
 - 🧑‍💻 [GitHub Profile](https://github.com/AnjushreeJ)
 
