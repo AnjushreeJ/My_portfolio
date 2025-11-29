@@ -36,7 +36,7 @@ Built with love using HTML, CSS, and JavaScript to showcase my skills, projects,
 
 ### 🖼️ This Portfolio Website
 > Showcases my professional background, resume, and project links  
-> Hosted using GitHub Pages: [View Live](http://127.0.0.1:5500/index.html)
+> Hosted using GitHub Pages: [View Live](http://127.0.0.1:5500/Portfolio/index.html)
 
 ---
 
